@@ -1,0 +1,1 @@
+# terraform-tflint-aws-config
